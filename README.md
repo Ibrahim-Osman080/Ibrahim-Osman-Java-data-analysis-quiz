@@ -1,2 +1,2 @@
 # Ibrahim-Osman-Java-data-analysis-quiz-
-This repository contains the Java code for a Data Analysis Quiz program completed for Unit 1 of the Programming 1 (CS1102-T5) course at the University of the People (UoPeople) in AY2024-T5. The program simulates a simple quiz with multiple-choice questions and calculates the user's score.
+Java program that simulates a simple quiz game. The program should prompt the user with a series of questions and allow them to enter their answers. After the user has answered all the questions, the program should compute and display the final score based on the number of correct answers.
