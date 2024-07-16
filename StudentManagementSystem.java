@@ -1,4 +1,37 @@
-import java.util.ArrayList;
+# StockPriceAnalysis
+
+## Description
+
+This Java program performs a series of stock price analysis tasks, including:
+- Calculating the average stock price
+- Finding the maximum stock price
+- Counting the occurrences of a specific price
+- Computing the cumulative sum of stock prices
+
+## Features
+
+1. **Calculate Average Stock Price**:
+   - Method: `calculateAveragePrice`
+   - Input: Array of stock prices (float[])
+   - Output: Average price (float)
+
+2. **Find Maximum Stock Price**:
+   - Method: `findMaximumPrice`
+   - Input: Array of stock prices (float[])
+   - Output: Maximum price (float)
+
+3. **Count Occurrences of a Specific Price**:
+   - Method: `countOccurrences`
+   - Input: Array of stock prices (float[]), Target price (float)
+   - Output: Number of occurrences (int)
+
+4. **Compute Cumulative Sum of Stock Prices**:
+   - Method: `computeCumulativeSum`
+   - Input: ArrayList of stock prices (ArrayList<Float>)
+   - Output: Cumulative sum (ArrayList<Float>)
+                             
+    Code:
+    import java.util.ArrayList;
 import java.util.Scanner;
 
 class Student {
